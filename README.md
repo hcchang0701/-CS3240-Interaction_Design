@@ -1,1 +1,1 @@
-# -CS3240-Interaction_Design
+# CS3240-Interaction_Design
